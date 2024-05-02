@@ -1,2 +1,2 @@
 # BBDD
-Databases &amp; ERD
+Databases &amp; ERD for Postgres
